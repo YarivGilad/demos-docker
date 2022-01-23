@@ -1,0 +1,7 @@
+Create a docker running a micro server in Java built on Apache Tomcat.
+
+- find the right image in Docker hub.
+- Base your image on that image.
+- find or create a war file which packs a web site or service, say app.war.
+- pack your app.war into the docker image.
+- run your image with the right ports open.
